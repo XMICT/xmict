@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Banner-de-Linkedin-para-Copywriter-Moderno-Neutral.png](https://i.postimg.cc/gknzyxTy/Banner-de-Linkedin-para-Copywriter-Moderno-Neutral.png)](https://postimg.cc/nCffphZM)
+[![Banner-de-Linkedin-para-Copywriter-Moderno-Neutral-1.png](https://i.postimg.cc/6527WbtN/Banner-de-Linkedin-para-Copywriter-Moderno-Neutral-1.png)](https://postimg.cc/w7zxFV1W)
 <!--
 **XMICT/xmict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
