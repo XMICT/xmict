@@ -1,6 +1,10 @@
-### Hi there 👋
+<div style="align: center">
+  <h1>Hola, soy Carlos Guardiola</h1>
+  <h1>👁️ Echa un vistazo 👁️</h1>
+</div>
 
 [![Banner-de-Linkedin-para-Copywriter-Moderno-Neutral-1.png](https://i.postimg.cc/6527WbtN/Banner-de-Linkedin-para-Copywriter-Moderno-Neutral-1.png)](https://postimg.cc/w7zxFV1W)
+
 <!--
 **XMICT/xmict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
