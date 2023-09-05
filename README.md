@@ -1,4 +1,4 @@
-<div style="align: center">
+<div style="text-align: center">
   <h1>Hola, soy Carlos Guardiola</h1>
   <h1>👁️ Echa un vistazo 👁️</h1>
 </div>
