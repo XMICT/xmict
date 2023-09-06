@@ -14,7 +14,7 @@
 
 <h2>Estadisticas</h2>
 
-<div align="center"> 
+<div display="flex"> 
   <a href="(https://camo.githubusercontent.com/ae45acd0ca53dbdd130e4ae07c1a890c9061db4a5c31481c797e4f22efeedd5e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d786d696374267468656d653d7472616e73706172656e742673686f775f69636f6e733d74727565)">
     <img
       src="https://github-readme-stats.vercel.app/api?username=xmict&theme=transparent&show_icons=true"
