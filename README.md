@@ -1,4 +1,5 @@
 <h1 align = "center">Hola, soy Carlos Guardiola 👋</h1>
+
 [![Banner-de-Linkedin-para-Copywriter-Moderno-Neutral-1.png](https://i.postimg.cc/6527WbtN/Banner-de-Linkedin-para-Copywriter-Moderno-Neutral-1.png)](https://postimg.cc/w7zxFV1W)
 
 <h2>Acerca de mi</h2>
