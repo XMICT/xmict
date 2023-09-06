@@ -13,6 +13,7 @@
 <h3>Diseñador</h3>
 
 <h2>Estadisticas</h2>
+
 ![XMICT's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmict&theme=transparentk&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmict&theme=transparent&layout=compact)
