@@ -1,6 +1,6 @@
 <h1 align = "center">Hola, soy Carlos Guardiola 👋</h1>
 
-[![Banner-de-Linkedin-para-Copywriter-Moderno-Neutral-1.png](https://i.postimg.cc/6527WbtN/Banner-de-Linkedin-para-Copywriter-Moderno-Neutral-1.png)](https://postimg.cc/w7zxFV1W)
+[![Banner-de-Linkedin-para-Copywriter-Moderno-Neutral-3.png](https://i.postimg.cc/fTGZWr8P/Banner-de-Linkedin-para-Copywriter-Moderno-Neutral-3.png)](https://postimg.cc/0b0hccRG)
 
 <h2>Acerca de mi</h2>
 <p>👨‍💻 Desarrollador full-stack y diseñador de aplicaciones de escritorio, moviles y paginas web</p>
