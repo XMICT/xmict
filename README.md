@@ -11,7 +11,10 @@
 
 <h3>Desarrollador</h3>
 
-![Static Badge](https://img.shields.io/badge/HTML-1E1E1E?style=for-the-badge&logo=html5) ![Static Badge](https://img.shields.io/badge/CSS-1E1E1E?style=for-the-badge&logo=css3) ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-1E1E1E?style=for-the-badge&logo=javascript) ![Static Badge](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react) 
+![Static Badge](https://img.shields.io/badge/HTML-1E1E1E?style=for-the-badge&logo=html5) 
+![Static Badge](https://img.shields.io/badge/CSS-1E1E1E?style=for-the-badge&logo=css3) 
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-1E1E1E?style=for-the-badge&logo=javascript) 
+![Static Badge](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react) 
 <br>
 ![Static Badge](https://img.shields.io/badge/NODE%20JS-1E1E1E?style=for-the-badge&logo=nodedotjs)
 ![Static Badge](https://img.shields.io/badge/PYTHON-1E1E1E?style=for-the-badge&logo=python)
@@ -20,6 +23,9 @@
 <br>
 ![Static Badge](https://img.shields.io/badge/Android%20Studio-1E1E1E?style=for-the-badge&logo=androidstudio)
 ![Static Badge](https://img.shields.io/badge/DART-1E1E1E?style=for-the-badge&logo=dart)
+<br>
+![Static Badge](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git)
+
 
 <h3>Diseñador</h3>
 
