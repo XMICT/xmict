@@ -8,7 +8,11 @@
 
 <h2>Tecnologias</h2>
 <p>Dado el continuo avance de las tecnologías modernas y mi deseo de mantenerme al día con ellas, he optado por emplear diversas de estas herramientas.</p>
+
 <h3>Desarrollador</h3>
+
+![Static Badge](https://img.shields.io/badge/JavaScript-1E1E1E?logo=javascript)  ![Static Badge](https://img.shields.io/badge/React-1E1E1E?logo=react) ![Static Badge](https://img.shields.io/badge/HTML-1E1E1E?style=for-the-badge&logo=html5)
+
 
 <h3>Diseñador</h3>
 
