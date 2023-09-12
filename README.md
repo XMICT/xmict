@@ -31,7 +31,7 @@
 
 <h2>Estadisticas</h2>
 
-<div styl="display: flex; flex-wrap: nowrap;">
+<div style="display: flex; flex-wrap: nowrap;">
     <div flex="1">
         <a href="https://camo.githubusercontent.com/fed232d7116a46e746f04f1973a8f5eebd6d9dde2fd97497020f00dc7bcf0444/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d786d696374267468656d653d7472616e73706172656e74266c61796f75743d636f6d70616374">
     <img
