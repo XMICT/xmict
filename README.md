@@ -11,10 +11,23 @@
 
 <h3>Desarrollador</h3>
 
-![Static Badge](https://img.shields.io/badge/JavaScript-1E1E1E?logo=javascript)  ![Static Badge](https://img.shields.io/badge/React-1E1E1E?logo=react) ![Static Badge](https://img.shields.io/badge/HTML-1E1E1E?style=for-the-badge&logo=html5)
-
+![Static Badge](https://img.shields.io/badge/HTML-1E1E1E?style=for-the-badge&logo=html5) ![Static Badge](https://img.shields.io/badge/CSS-1E1E1E?style=for-the-badge&logo=css3) ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-1E1E1E?style=for-the-badge&logo=javascript) ![Static Badge](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react) 
+<br>
+![Static Badge](https://img.shields.io/badge/NODE%20JS-1E1E1E?style=for-the-badge&logo=nodedotjs)
+![Static Badge](https://img.shields.io/badge/PYTHON-1E1E1E?style=for-the-badge&logo=python)
+![Static Badge](https://img.shields.io/badge/JAVA-1E1E1E?style=for-the-badge&logo=coffeescript)
+![Static Badge](https://img.shields.io/badge/C%23-1E1E1E?style=for-the-badge&logo=csharp&logoColor=842FC2)
+<br>
+![Static Badge](https://img.shields.io/badge/Android%20Studio-1E1E1E?style=for-the-badge&logo=androidstudio)
+![Static Badge](https://img.shields.io/badge/DART-1E1E1E?style=for-the-badge&logo=dart)
 
 <h3>Diseñador</h3>
+
+![Static Badge](https://img.shields.io/badge/Ilustrator-1E1E1E?style=for-the-badge&logo=adobeillustrator)
+![Static Badge](https://img.shields.io/badge/Photoshop-1E1E1E?style=for-the-badge&logo=adobephotoshop)
+![Static Badge](https://img.shields.io/badge/Design-1E1E1E?style=for-the-badge&logo=adobeindesign)
+![Static Badge](https://img.shields.io/badge/XD-1E1E1E?style=for-the-badge&logo=adobexd)
+![Static Badge](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma)
 
 <h2>Estadisticas</h2>
 
